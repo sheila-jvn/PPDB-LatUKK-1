@@ -34,7 +34,7 @@
                     <h2 style="color: cornflowerblue;margin-top:80px;margin-left:25px;">Selamat Datang</h2>
                     <p style="margin-left: 25px;">PPDB SMK Merdeka Belajar</p>
                     </p>
-                    <a href="{{ route('pendaftars.create') }}"class="btn btn-outline-info" style="border-radius: 5px;border-radius:15px;width:200px;margin-left:25px;">Daftar Sekarang</a>
+                    <a href="{{ route('pendaftars.create') }}" class="btn btn-outline-info" style="border-radius: 5px;border-radius:15px;width:200px;margin-left:25px;">Daftar Sekarang</a>
                     <a href="{{ route('pendaftars.index') }}"class="btn btn-outline-info" style="border-radius: 5px;border-radius:15px;width:200px;margin-left:25px;">Pendaftar</a>
                 </div>
                 </div>

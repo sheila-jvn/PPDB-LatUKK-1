@@ -70,7 +70,7 @@
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-            <button type="submit" class="btn btn-light">SIMPAN</button>
+        <button onclick="return confirm('Selamat, Anda sudah terdaftar di SMK Merdeka Belajar!')"type="submit"class="btn btn-primary"><i class="fa fa-trash"></i>SIMPAN</button>
         </div>
     </div>
    
